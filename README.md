@@ -2,18 +2,18 @@
 <h1 align="center">Papers-of-Crowd-Counting</h1>
 
 <div align="center">
-  Records for Inspired Papers of Crowd Counting Task and Related Pixel-wise Work. 
+  Inspired Papers of Crowd Counting Task and Related Pixel-wise Task. 
 </div>
 
 <br/>
 
 <div align="center">
 
- ### [Crowd Counting](#1-crowd-counting) | [Semantic Segmentation](#2-Semantic-Segmentation) | [Pose Estimation](#3-Pose-Estimation) | [Image Restore](#4-Image-Restore)
+ ### [Crowd Counting](#crowd-counting) | [Semantic Segmentation](#2-Semantic-Segmentation) | [Pose Estimation](#3-Pose-Estimation) | [Image Restore](#4-Image-Restore)
 </div>
 
 ---
-## 1. Crowd Counting
+## - Crowd Counting
 
 ## 2. Semantic Segmentation
 
