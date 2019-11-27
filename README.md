@@ -9,18 +9,18 @@
 
 <div align="center">
 
- ### [Crowd Counting](#-crowd-counting) | [Semantic Segmentation](#2-Semantic-Segmentation) | [Pose Estimation](#3-Pose-Estimation) | [Image Restore](#4-Image-Restore)
+ ### [Crowd Counting](#Crowd-Counting) | [Semantic Segmentation](#Semantic-Segmentation) | [Pose Estimation](#Pose-Estimation) | [Image Restore](#Image-Restore)
 </div>
 
 ---
-## - Crowd Counting
+## Crowd Counting
 
-## 2. Semantic Segmentation
+## Semantic Segmentation
 
-## 3. Pose Estimation
+## Pose Estimation
    - HRNet:《Deep High-Resolution Representation Learning for Human Pose Estimation》(CVPR2018)
    
-## 4. Image Restore
+## Image Restore
 
 (deblur, super-resolution, denoise...)
 
