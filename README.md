@@ -9,7 +9,7 @@
 
 <div align="center">
 
- ### [Crowd Counting](#crowd-counting) | [Semantic Segmentation](#2-Semantic-Segmentation) | [Pose Estimation](#3-Pose-Estimation) | [Image Restore](#4-Image-Restore)
+ ### [Crowd Counting](#-crowd-counting) | [Semantic Segmentation](#2-Semantic-Segmentation) | [Pose Estimation](#3-Pose-Estimation) | [Image Restore](#4-Image-Restore)
 </div>
 
 ---
