@@ -9,7 +9,7 @@
 
 <div align="center">
 
- ### [Crowd Counting](#1-crowdcounting) | [Install](#2-install)
+ ### [Crowd Counting](#1-crowd-counting) | [Install](#2-install)
 </div>
 
 ---
