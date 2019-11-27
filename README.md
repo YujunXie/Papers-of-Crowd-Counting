@@ -9,22 +9,14 @@
 
 <div align="center">
 
- ### [CrowdCounting](#1-crowdcounting) | [Install](#2-install)
+ ### [Crowd Counting](#1-crowdcounting) | [Install](#2-install)
 </div>
 
 ---
-## 1. CrowdCounting
+## 1. Crowd Counting
 
 
 ## 2. Install
-
-<div align="center">
- ### [CrowdCounting](#1-CrowdCounting) | [SemanticSegmentation](#SemanticSegmentation) | [Tutorial](#3-tutorial) | [Examples](#4-examples) | [Acknowledgments](#5-acknowledgments)
-</div>
-
----
-## 1. CrowdCounting
-
 
 ## 2. SemanticSegmentation
 
