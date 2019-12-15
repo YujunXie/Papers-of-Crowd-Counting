@@ -18,6 +18,8 @@
    
 ## Pose Estimation
    - HRNet:《Deep High-Resolution Representation Learning for Human Pose Estimation》(CVPR2018)
+   - HigherHRNet：《Bottom-Up Higher-Resolution Networks for Multi-Person Pose Estimation》(CoRR)
+   - CPN：《Cascaded Pyramid Network for Multi-Person Pose Estimation》（CVPR2018）
    
 ## Image Restore
 
