@@ -29,3 +29,4 @@
    - 
 ## Others
   - SENet:《Squeeze-and-Excitation Networks》(TPAMI2018)
+  - 《Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling》(NIPS2014)
